@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a trainee at [AzubiAfrica][website]!
 - 🌱 I’m currently learning everything to improve myself🤣
-- 👯 I’m looking to collaborate with developers to improve my skills and knowledge
+- 👯 I’m looking to collaborate with other developers to improve my skills and knowledge
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games[Fifa, NBA]
 
