@@ -18,14 +18,7 @@
 <br />
 
 
-### Connect with me:
 
-[<img align="left" alt="SeanPounds | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SeanPounds | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SeanPounds | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="SeanPounds | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-<br />
 
 ### Languages and Tools:
 
@@ -48,6 +41,16 @@
 
 [![Donald's github stats](https://github-readme-stats.vercel.app/api?username=donalddoe&show_icons=true&theme=radical&count_private=true)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donalddoe&show_icons=true&theme=radical&count_private=true)](https://github.com/donalddoe/github-readme-stats)</br>
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="SeanPounds | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="SeanPounds | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SeanPounds | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SeanPounds | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+<br />
 
 
 
