@@ -41,8 +41,10 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Dart" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Flutter" width="32px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
-<img align="left" alt="Firebase" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="Firebase" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /><br />
 <br />
+<br />
+
 
 [![Donald's github stats](https://github-readme-stats.vercel.app/api?username=donalddoe&show_icons=true&theme=radical&count_private=true)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donalddoe&show_icons=true&theme=radical&count_private=true)](https://github.com/donalddoe/github-readme-stats)</br>
