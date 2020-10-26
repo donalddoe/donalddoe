@@ -17,7 +17,8 @@
 
 <br />
 
-![Donald's github stats](https://github-readme-stats.vercel.app/api?username=donalddoe&show_icons=true&theme=radical)
+[![Donald's github stats](https://github-readme-stats.vercel.app/api?username=donalddoe&show_icons=true&theme=radical&count_private=true)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donalddoe&show_icons=true&theme=radical&count_private=true)](https://github.com/donalddoe/github-readme-stats)</br>
 
 ### Connect with me:
 
