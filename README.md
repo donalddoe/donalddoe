@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/donny_doe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=donalddoe)
 
-## I'm a Brother, Friend, Developer, Gamer, and a Student!
+## I'm a Brother, Friend, Developer, and a Gamer!
 
 - 🔭 I’m currently working as a trainee at [AzubiAfrica][website]!
 - 🌱 I’m currently learning everything to improve myself🤣
@@ -38,6 +38,7 @@
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Angular" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
