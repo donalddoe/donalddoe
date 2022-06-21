@@ -18,11 +18,6 @@
 
 
 
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donalddoe&show_icons=true&theme=radical&count_private=true)](https://github.com/donalddoe/github-readme-stats) -->
-</br>
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="SeanPounds | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -47,16 +42,20 @@
 <img align="left" alt="Dart" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Flutter" width="32px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
 <img align="left" alt="Firebase" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /><br />
+<br />
 
-### Badges
 
-<b>My GitHub Stats</b>
+
+### My GitHub Stats
+
 
 <a href="http://www.github.com/donalddoe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=donalddoe&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-[![Donald's github stats](https://github-readme-stats.vercel.app/api?username=donalddoe&show_icons=true&theme=radical&count_private=true)</br>
+[![Donald's github stats](https://github-readme-stats.vercel.app/api?username=donalddoe&show_icons=true&theme=radical&count_private=true)
 
 
 <a href="http://www.github.com/donalddoe"><img src="https://activity-graph.herokuapp.com/graph?username=donalddoe&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donalddoe&show_icons=true&theme=radical&count_private=true) -->
 
 <a href="https://github.com/donalddoe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donalddoe&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
