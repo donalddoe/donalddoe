@@ -7,10 +7,10 @@
 
 - 🌍  I'm based in Ghana
 - ✉️  You can contact me at [donnydoe86@gmail.com](mailto:donnydoe86@gmail.com)
-- 🚀  I'm currently working at [GetInnotized](http://www.getinnotized.com/)
+##- 🚀  I'm currently working at [WACREN](http://www.wacren.net/)
 - 🌱 I’m currently learning everything to improve myself🤣
 - 👯 I’m looking to collaborate with other developers to improve my skills and knowledge
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games[Fifa, NBA]
 
 
