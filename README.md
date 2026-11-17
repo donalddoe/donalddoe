@@ -63,4 +63,4 @@
 [instagram]: https://instagram.com/pounds_ean
 [linkedin]: https://linkedin.com/in/donald-doe-seanedzu-30310b14b
 [facebook]: https://facebook.com/sean.donald1
-[website]: https://azubiafrica.org
+[website]: https://steadymeet.com
